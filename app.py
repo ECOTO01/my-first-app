@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("ยินดีต้องรับสู่โปรไฟล์ของผม")
+st.title("ยินดีต้อนรับสู่โปรไฟล์ของผม")
 st.title("นี่คือเว็ปแอปพิเคชั่นแรกของผม เขียนโดย Python ครับ")
 
 st.divider()
